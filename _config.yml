@@ -29,7 +29,7 @@ github_username:  mtc-20
 
 # Build settings
 # theme: minima
-theme: "just-the-docs"
+theme: just-the-docs
 
 plugins:
   - jekyll-feed
